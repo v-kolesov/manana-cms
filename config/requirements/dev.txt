@@ -1,0 +1,7 @@
+-r prod.txt
+black
+ipdb
+pytest
+Faker
+pylance
+uvicorn
